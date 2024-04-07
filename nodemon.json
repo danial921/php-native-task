@@ -1,0 +1,6 @@
+{
+    "watch": ["*.php"],
+    "ext": "php",
+    "exec": "browser-sync start --proxy 'browser-sync start --proxy 'localhost/ipg-traine' --files './'"
+  }
+  
